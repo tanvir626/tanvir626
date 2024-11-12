@@ -9,10 +9,16 @@
 ## Tools I Use
 I am proficient in a wide range of tools and technologies that help me deliver high-quality solutions.
 
-| ![gpt-4](https://seeklogo.com/images/G/gpt-4-logo-F9E550D12B-seeklogo.com.png) | ![dotnet](https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg) | ![C#](https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png) | ![Bootstrap](https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg) | ![Jupyter](https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg) |
-|:--:|:--:|:--:|:--:|:--:|
-| ![Scikit-learn](https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png) | ![GitHub](https://www.vectorlogo.zone/logos/github/github-icon.svg) | ![VS Code](https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg) |  |  |
+<div style="display: flex; flex-wrap: wrap; gap: 15px;">
+    <img src="https://seeklogo.com/images/G/gpt-4-logo-F9E550D12B-seeklogo.com.png" alt="gpt-4" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/dotnet/dotnet-tile.svg" alt="dotnet" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/C/c-sharp-c-logo-02F17714BA-seeklogo.com.png" alt="C#" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/getbootstrap/getbootstrap-icon.svg" alt="Bootstrap" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/jupyter/jupyter-ar21.svg" alt="Jupyter" width="40" height="40"/>
+    <img src="https://seeklogo.com/images/S/scikit-learn-logo-8766D07E2E-seeklogo.com.png" alt="Scikit-learn" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/github/github-icon.svg" alt="GitHub" width="40" height="40"/>
+    <img src="https://www.vectorlogo.zone/logos/visualstudio_code/visualstudio_code-icon.svg" alt="VS Code" width="40" height="40"/>
+</div>
 
-### Top Languages
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs?username=tanvir626&show_icons=true&locale=en&layout=compact)
 

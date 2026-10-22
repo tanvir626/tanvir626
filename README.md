@@ -5,9 +5,6 @@
   />
 </h1>
 
-<p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="340" alt="Developer coding animation" />
-</p>
 
 <p align="center">
   <strong>Executive Officer (IT) · Astha Life Insurance Company Ltd.</strong><br>

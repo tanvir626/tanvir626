@@ -1,4 +1,4 @@
- <h1 align="center">
+ <h1 align="center" style="margin-bottom=0; padding bottom=0;">
 <img
     src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=60&lines=MD+TANVIR+HOSSAIN;.NET+%26+SQL+SERVER+ENGINEER;ENTERPRISE+SOFTWARE+DEVELOPER"
     alt="Tanvir Hossain — .NET and SQL Server Engineer"

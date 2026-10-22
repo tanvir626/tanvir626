@@ -102,18 +102,3 @@ Business applications, operational workflows, and insurance processes.
   <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/robot.svg" width="24" alt=""> AI-assisted engineering
 </p>
 
-## <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/handshake.svg" width="24" alt=""> Let's Connect
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/tanvir626">
-    <img src="https://img.shields.io/badge/LinkedIn-Tanvir%20Hossain-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn profile">
-  </a>
-</p>
-
-<p align="center">
-  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="240" alt="Thank you animation">
-</p>
-
-<p align="center">
-  <sub>Building reliable systems, one improvement at a time.</sub>
-</p>

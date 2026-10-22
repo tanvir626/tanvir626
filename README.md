@@ -1,6 +1,6 @@
   <h1 align="center"  style="padding-bottom: 0px;margin-bottom: 0px;border-bottom-width: 0px;">
 <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=60&lines=MD+TANVIR+HOSSAIN;.NET+%26+SQL+SERVER+ENGINEER;ENTERPRISE+SOFTWARE+DEVELOPER"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=800&color=36BCF7&center=true&vCenter=true&width=800&height=60&lines=MD+TANVIR+HOSSAIN;.NET+%26+SQL+SERVER+ENGINEER;ENTERPRISE+SOFTWARE+DEVELOPER"
     alt="Md .Tanvir Hossain — .NET and SQL Server Engineer"
   />
 </h1>

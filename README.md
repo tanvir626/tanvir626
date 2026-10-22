@@ -1,5 +1,8 @@
  <h1 align="center">
-  [![Animated profile heading](https://readme-typing-svg.demolab.com/?font=Fira+Code&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=120&lines=TANVIR+HOSSAIN;.NET+%26+SQL+SERVER+ENGINEER;ENTERPRISE+SOFTWARE+DEVELOPER)](https://git.io/typing-svg)
+<img
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=120&lines=TANVIR+HOSSAIN;.NET+%26+SQL+SERVER+ENGINEER;ENTERPRISE+SOFTWARE+DEVELOPER"
+    alt="Tanvir Hossain — .NET and SQL Server Engineer"
+  />
 </h1>
 
 <p align="center">

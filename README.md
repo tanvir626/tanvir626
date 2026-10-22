@@ -85,7 +85,7 @@ Business applications, operational workflows, and insurance processes.
 </p>
 <p align="center">
   <tr>
-    <td width="50%" valign="top">
+    <td width="100%" valign="top">
       <h2>🛠️ Technologies</h2>
       <table>
         <tr><th>Category</th><th>Technologies</th></tr>

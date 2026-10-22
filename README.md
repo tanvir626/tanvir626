@@ -1,16 +1,65 @@
-## Hi there 👋
+<h1 align="center">
+  <img src="assets/masthead.gif" alt="Tanvir, .NET and SQL Server engineer in Dhaka. Executive Officer (IT) at Astha Life Insurance Company Ltd. A line under the name types through legacy .NET, SQL Server, and ASP.NET Core." width="880" />
+</h1>
 
-<!--
-**tanvir626/tanvir626** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  <a href="https://www.linkedin.com/in/tanvir626"><strong>LinkedIn</strong></a>
+  &nbsp;·&nbsp; linkedin.com/in/tanvir626
+  &nbsp;·&nbsp; Dhaka, Bangladesh
+</p>
 
-Here are some ideas to get you started:
+I work on enterprise and insurance systems: long-lived .NET, SQL Server, and the ASP.NET Core APIs in front of them. I am Executive Officer (IT) at **Astha Life Insurance Company Ltd.** in Dhaka.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Most days that means keeping legacy .NET maintainable, tuning SQL Server, and building the ERP and insurance applications those systems support.
+
+## Focus
+
+**01 · Legacy .NET**
+Maintenance and modernization of ASP.NET Framework and ASP.NET Core systems that already carry live policies.
+
+**02 · SQL Server**
+Schema design and query tuning, where a slow report is a business problem.
+
+**03 · ASP.NET Core APIs**
+Web APIs the rest of the business can call, sitting on insurance and enterprise processes.
+
+**04 · Business applications**
+ERP and insurance software, where the edge cases are the work.
+
+## Stack
+
+| | |
+| --- | --- |
+| Language | C# · JavaScript |
+| Web | ASP.NET Framework · ASP.NET Core · MVC · Web API |
+| Data | SQL Server · Dapper · Entity Framework |
+| Practice | Git |
+
+## Currently learning
+
+- Software architecture
+- Testing
+- Advanced SQL
+- AI-assisted engineering
+
+---
+
+<details>
+<summary>Run the animated profile locally</summary>
+
+The page in this repo is the same profile in motion: the name settles, a one-row SQL portrait types itself, and a brass mark walks the study list.
+
+```bash
+npm install
+npm run dev
+```
+
+Open [http://localhost:3847](http://localhost:3847).
+
+The masthead above is `assets/masthead.gif`. Regenerate it with `python3 scripts/render_masthead.py` (Pillow, Fraunces at `/tmp/fonts/Fraunces.ttf`, JetBrains Mono), then:
+
+```bash
+gifsicle -O3 assets/masthead.gif -o assets/masthead.gif
+```
+
+</details>

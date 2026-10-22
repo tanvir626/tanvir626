@@ -82,7 +82,8 @@ Business applications, operational workflows, and insurance processes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="48" alt="Git">
   &nbsp;
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub">
-
+</p>
+<p align="center">
   <tr>
     <td width="50%" valign="top">
       <h2>🛠️ Technologies</h2>

@@ -87,31 +87,24 @@ Business applications, operational workflows, and insurance processes.
 <table>
   <tr>
     <td width="60%" valign="top">
-
       <h2>🛠️ Technologies</h2>
-
-      | Category | Technologies |
-      |---|---|
-      | Languages | C#, JavaScript, T-SQL |
-      | Backend | ASP.NET Framework, ASP.NET Core, MVC, Web API |
-      | Data | SQL Server, Dapper, Entity Framework |
-      | Frontend | HTML, CSS, Bootstrap, jQuery |
-      | Tools | Visual Studio, Git, GitHub, IIS |
-
+      <table>
+        <tr><th>Category</th><th>Technologies</th></tr>
+        <tr><td>Languages</td><td>C#, JavaScript, T-SQL</td></tr>
+        <tr><td>Backend</td><td>ASP.NET Framework, ASP.NET Core, MVC, Web API</td></tr>
+        <tr><td>Data</td><td>SQL Server, Dapper, Entity Framework</td></tr>
+        <tr><td>Frontend</td><td>HTML, CSS, Bootstrap, jQuery</td></tr>
+        <tr><td>Tools</td><td>Visual Studio, Git, GitHub, IIS</td></tr>
+      </table>
     </td>
     <td width="40%" valign="top">
-
-      <h2>
-        <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/graduation-cap.svg" width="24" alt=""/> Current Interest
-      </h2>
-
+      <h2>🎓 Current Interest</h2>
       <p>
-        <img src="https://media.giphy.com/media/juua9i2c2fA0AIp2iq/giphy.gif" width="26" alt=""/> Software architecture<br/><br/>
-        <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/flask.svg" width="24" alt=""/> Automated testing<br/><br/>
-        <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/database.svg" width="24" alt=""/> Advanced SQL<br/><br/>
-        <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/robot.svg" width="24" alt=""/> AI-assisted engineering
+        <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/code.svg" width="20" alt=""/> Software architecture<br/><br/>
+        <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/flask.svg" width="20" alt=""/> Automated testing<br/><br/>
+        <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/database.svg" width="20" alt=""/> Advanced SQL<br/><br/>
+        <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/robot.svg" width="20" alt=""/> AI-assisted engineering
       </p>
-
     </td>
   </tr>
 </table>

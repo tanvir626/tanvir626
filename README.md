@@ -84,6 +84,7 @@ Business applications, operational workflows, and insurance processes.
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="48" alt="GitHub">
 </p>
 
+<p align="center">
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -108,3 +109,4 @@ Business applications, operational workflows, and insurance processes.
     </td>
   </tr>
 </table>
+</p>

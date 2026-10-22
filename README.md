@@ -97,7 +97,7 @@ Business applications, operational workflows, and insurance processes.
         <tr><td>Tools</td><td>Visual Studio, Git, GitHub, IIS</td></tr>
       </table>
     </td>
-    <td width="20%" valign="top">
+    <td width="100%" valign="top">
       <h2>🎓 Current Interest</h2>
       <p>
         <img src="https://cdn.jsdelivr.net/npm/@fortawesome/fontawesome-free@6/svgs/solid/code.svg" width="20" alt=""/> Software architecture<br/><br/>

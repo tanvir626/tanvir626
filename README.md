@@ -1,11 +1,9 @@
  <h1 align="center">
 <img
-    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=120&lines=TANVIR+HOSSAIN;.NET+%26+SQL+SERVER+ENGINEER;ENTERPRISE+SOFTWARE+DEVELOPER"
+    src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=30&pause=1000&color=36BCF7&center=true&vCenter=true&width=800&height=60&lines=MD+TANVIR+HOSSAIN;.NET+%26+SQL+SERVER+ENGINEER;ENTERPRISE+SOFTWARE+DEVELOPER"
     alt="Tanvir Hossain — .NET and SQL Server Engineer"
   />
 </h1>
-
-
 <p align="center">
   <strong>Executive Officer (IT) · Astha Life Insurance Company Ltd.</strong><br>
   Dhaka, Bangladesh

@@ -5,7 +5,6 @@
   />
 </h1>
 <p align="center">
-
   <strong>Executive Officer (IT) · Astha Life Insurance Company Ltd.</strong><br>
   Dhaka, Bangladesh
 </p>
@@ -127,4 +126,3 @@ Business applications, operational workflows, and insurance processes.
     </td>
   </tr>
 </table>
-
